@@ -1,7 +1,5 @@
 // import 'dart:io';
 
-import 'dart:io';
-
 void main() {
   // print("birinci ededi daxil edin: ");
 
